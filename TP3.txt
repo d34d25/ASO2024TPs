@@ -1,0 +1,10 @@
+El tiempo de ejecución es impredecible ya que tarea_1() se ejecuta a la máxima velocidad posible
+eso significa que el tiempo de ejecución de esa función varía de máquina en máquina por lo que el
+programa entero no tardará lo mismo en ejecutarse en todas las computadoras, incluso en la misma máquina no 
+tarda siempre lo mismo, seguramente dependa de la carga de la CPU en ese momento
+
+Un ejemplo de de “máxima velocidad posible” proceso sería un vector de 1 millón de espacios y un ciclo for que lo recorre
+
+Un ejemplo de proceso de naturaleza impredecible sería la carga de assets de un videojuego
+
+( el programa finaliza de forma inesperada antes de que termine tarea_3() )
